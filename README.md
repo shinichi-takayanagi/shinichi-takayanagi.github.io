@@ -1,1 +1,0 @@
-# shinichi-takayanagi.github.io
