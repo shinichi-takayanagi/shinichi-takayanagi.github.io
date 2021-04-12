@@ -14,9 +14,3 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
-
-[extra.social]
-github = ""
-twitter = "https://twitter.com/_stakaya"
-facebook = ""
-instagram = ""

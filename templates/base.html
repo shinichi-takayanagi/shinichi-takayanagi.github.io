@@ -4,9 +4,11 @@
 <head>
     <meta charset="utf-8">
     <title>Shinichi Takayanagi's website</title>
+    {% block css %}
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href='{{ get_url(path="style.css", trailing_slash=false) | safe }}'>
+    {% endblock css %}
 </head>
 
 <body>
@@ -17,9 +19,11 @@
         <div id="sidebar">
             <div class="logo-title">
                 <div class="title">
-                    <img src="./images/icon.png" class="image-circle" />
+                    <img src='{{ get_url(path="./images/icon.png", trailing_slash=false) | safe }}'' class="image-circle" />
                     <p>Shinichi Takayanagi</p>
-                    <p>About</p>
+                    <a href=' {{ get_url(path="about" , trailing_slash=true)}}'>
+                    <h2>About</h2>
+                    </a>
                     <p>Education</p>
                     <p>Research</p>
                     <p>Interests</p>
