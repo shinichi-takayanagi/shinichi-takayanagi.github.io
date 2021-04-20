@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="post-content">{{ section.content | safe }}</div>
+<h1 class="title">
+    {{ section.title }}
+</h1>
+{{ section.content | safe }}
+
 {% endblock content %}
