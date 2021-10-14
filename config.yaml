@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Shinichi Takayanagi # Website name
 baseurl: 'https://shinichi-takayanagi.github.io/' # Website URL
-copyright: '© {year} Me' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Shinichi Takayanagi' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

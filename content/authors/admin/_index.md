@@ -37,6 +37,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/shinichi-takayanagi-1299ba2b/
+- icon: speaker-deck
+  icon_pack: fab
+  link: https://speakerdeck.com/stakaya/
 superuser: true
 title: Dr. Shinichi Takayanagi
 ---
