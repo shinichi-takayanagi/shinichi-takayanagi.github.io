@@ -1,7 +1,7 @@
 ---
 education:
   courses:
-  - course: Ph.D. (Statistical Science)
+  - course: Ph.D. in Statistical Science
     institution: The Graduate University for Advanced Studies, SOKENDAI
     year: 2020
   - course: M.S. in Physics
