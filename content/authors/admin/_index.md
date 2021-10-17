@@ -1,13 +1,13 @@
 ---
 education:
   courses:
-  - course: Ph.D. in Statistical Science
+  - course: PhD in Statistical Science
     institution: The Graduate University for Advanced Studies, SOKENDAI
     year: 2020
-  - course: M.S. in Physics
+  - course: MS in Physics
     institution: Hokkaido University
     year: 2006
-  - course: B.S. in Physics
+  - course: BS in Physics
     institution: Hokkaido University
     year: 2004
 email: ""
