@@ -17,7 +17,7 @@ interests:
 - Machine Learning Theory
 - Theoretical Physics
 - Monte Carlo method
-role: Applied Data Scientist
+role: Lead Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,7 +44,7 @@ superuser: true
 title: Dr. Shinichi Takayanagi
 ---
 
-Dr. Takayanagi is an applied data scientist at [Uzabase, Inc.](https://www.uzabase.com/), Exective Vice President of [HOXO-M Inc.](https://hoxo-m.com/), and Visiting Associate Professor in [Center for Design-Oriented AI Education and Research](https://www.tokushima-u.ac.jp/ai/about/staff/#wrap) at Tokushima University. 
+Dr. Takayanagi is a Lead Data Scientist at [Boston Consulting Group](https://www.bcg.com) and Visiting Associate Professor in [Center for Design-Oriented AI Education and Research](https://www.tokushima-u.ac.jp/ai/about/staff/#wrap) at Tokushima University. He is also the co-founder of [HOXO-M Inc.](https://hoxo-m.com/).
 His research interests include statistical and data science, machine learning theory, theoretical physics, and its applications of related fields.
 
 Feel free to send me a direct message on [Twitter](https://twitter.com/_stakaya), [LinkedIn](https://www.linkedin.com/in/shinichi-takayanagi-1299ba2b/) or get in touch via [email](shinichi.takayanagi@gmail.com).
