@@ -9497,3 +9497,7 @@ div.chart {
 
 .portrait-title h2 {
   font-size: 1.5rem; }
+
+@media (min-width: 1200px) {
+  .container-xl, .container-lg, .container-md, .container-sm, .container {
+    max-width: 1500px; } }
