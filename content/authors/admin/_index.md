@@ -17,7 +17,7 @@ interests:
 - Machine Learning Theory
 - Theoretical Physics
 - Monte Carlo method
-role: Lead Data Scientist
+role: Lead AI Engieer
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,7 +44,7 @@ superuser: true
 title: Shinichi Takayanagi, Ph.D.
 ---
 
-Dr. Takayanagi is a Lead Data Scientist at [Boston Consulting Group](https://www.bcg.com) and Visiting Associate Professor in [Center for Design-Oriented AI Education and Research](https://www.tokushima-u.ac.jp/ai/about/staff/#wrap) at Tokushima University. He is also the co-founder of [HOXO-M Inc](https://hoxo-m.com/).
+Dr. Takayanagi is a Lead AI Engineer at [BCG X](https://www.bcg.com/x) and Visiting Associate Professor in [Center for Design-Oriented AI Education and Research](https://www.tokushima-u.ac.jp/ai/about/staff/#wrap) at Tokushima University. He is also the co-founder of [HOXO-M Inc](https://hoxo-m.com/).
 His research interests include statistical and data science, machine learning theory, theoretical physics, and its applications of related fields.
 
 Feel free to send me a direct message on [Twitter](https://twitter.com/_stakaya), [LinkedIn](https://www.linkedin.com/in/shinichi-takayanagi-1299ba2b/) or get in touch via [email](shinichi.takayanagi@gmail.com).
