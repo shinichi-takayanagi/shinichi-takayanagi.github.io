@@ -36,7 +36,7 @@ social:
   link: https://github.com/shinichi-takayanagi
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/shinichi-takayanagi-1299ba2b/
+  link: https://www.linkedin.com/in/shinichi-takayanagi/
 - icon: speaker-deck
   icon_pack: fab
   link: https://speakerdeck.com/stakaya/
@@ -47,6 +47,6 @@ title: Shinichi Takayanagi, Ph.D.
 Dr. Takayanagi is a Principal AI Engineer at [BCG X](https://www.bcg.com/x) and Visiting Associate Professor in [Center for Design-Oriented AI Education and Research](https://www.tokushima-u.ac.jp/ai/about/staff/#wrap) at Tokushima University. He is also the co-founder of [HOXO-M Inc](https://hoxo-m.com/).
 His research interests include statistical and data science, machine learning theory, theoretical physics, and its applications of related fields.
 
-Feel free to send me a direct message on [Twitter](https://twitter.com/_stakaya), [LinkedIn](https://www.linkedin.com/in/shinichi-takayanagi-1299ba2b/) or get in touch via [email](shinichi.takayanagi@gmail.com).
+Feel free to send me a direct message on [Twitter](https://twitter.com/_stakaya), [LinkedIn](https://www.linkedin.com/in/shinichi-takayanagi/) or get in touch via [email](shinichi.takayanagi@gmail.com).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
