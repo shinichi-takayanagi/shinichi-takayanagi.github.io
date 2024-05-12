@@ -17,7 +17,7 @@ interests:
 - Machine Learning Theory
 - Theoretical Physics
 - Monte Carlo method
-role: Lead AI Engieer
+role: Principal AI Engieer
 social:
 - icon: envelope
   icon_pack: fas
